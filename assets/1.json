@@ -1,0 +1,19 @@
+{
+  "name": "carPlay",
+  "symbol": "",
+  "image": "1.png",
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "HCMZbe9wJ9HaKRhqWgEJ4ELXco4mXMWt2Jq3nmpP7xFk",
+        "share": 100
+      }
+    ]
+  }
+}
